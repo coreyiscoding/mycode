@@ -1,2 +1,4 @@
 # mycode
-Learning code
+Learning code with ALTA3
+
+-Corey
