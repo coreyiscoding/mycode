@@ -1,2 +1,2 @@
 # mycode
-Learning code
+Learning to track my code.
