@@ -26,3 +26,8 @@ ansible_network_os=ios
 ansible_user=admin
 ansible_ssh_pass=ciscoskeerit123
 
+[arista_switches:vars]
+; variables specific to arista switches
+ansible_network_os=eos
+ansible_user=admin
+ansible_ssh_pass=alta3  
